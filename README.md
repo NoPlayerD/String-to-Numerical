@@ -2,7 +2,7 @@
 a basic console application for converting string values to predefined numerical values
 
 ## Why does it exist?
-i was trying something stupid with ML.Net so i created something like this, i couldn't find anything like this project to i'm publishing this ;)
+i was trying something stupid with ML.Net so i created something like this, i couldn't find anything like this project, so i'm publishing this ;)
 
 
 ### what u need to compile
